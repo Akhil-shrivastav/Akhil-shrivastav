@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhil-shrivastav
 - 👀 I’m interested in Software DeDevelopment 
-- 🌱 I’m currently learning Webdevelopment (https://akhil-portfolio-web.netlify.app/)
+- 🌱 I’m currently learning Webdevelopment [https://akhil-portfolio-web.netlify.app/]
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me- akhilshrivastav123@gmail.com
 
